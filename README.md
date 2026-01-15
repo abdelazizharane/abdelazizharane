@@ -1,14 +1,15 @@
 ### Hi there 👋🏾
 
 ###
-<p align="left">I'm an AI engineer with a passion for the data that influences our everyday decisions and work mainly in Machine Learning, computer vision and NLP, with a particular interest in the agricultural, health (radiology, epidemiology, etc) and linguistic sectors. 
+<p align="left">I am an ML/NLP Engineer passionate about the data that influences our daily decisions. I work primarily in machine learning, computer vision and NLP, with a particular interest in the agricultural, health (radiology, epidemiology, etc.), and linguistic (integrating Chadian languages ​into AI tools) sectors.
 
-**Here you will find my open source contributions on Chadian languages and other general projects**.
+My main goal is to contribute to the sustainable transformation of the AI ecosystem in Chad, through the [Chad AI Network community](https://chadainetwork.org/) that I founded. It brings together enthusiasts, students, academics, engineering researchers and professionals, driven by the desire to collectively advance this strategic sector in our country.
+
+Solving local problems using AI and data science is my ongoing obsession.
+
+
 ###
-
 <h3 align="left">Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -28,7 +29,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
 
-My main objective is to contribute to the sustainable transformation of the AI ecosystem in Chad, through the [Chad AI Network community](https://chadainetwork.org/) that I founded. It brings together enthusiasts, students, academics, engineering researchers and professionals, driven by the desire to collectively advance this strategic sector in our country.
-Solving local problems using AI and data science is my ongoing obsession.
