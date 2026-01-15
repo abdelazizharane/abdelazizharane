@@ -2,7 +2,8 @@
 
 ###
 <p align="left">I am an ML/NLP Engineer passionate about the data that influences our daily decisions. I work primarily in machine learning, computer vision and NLP, with a particular interest in the agricultural, health (radiology, epidemiology, etc.), and linguistic (integrating Chadian languages ​into AI tools) sectors.
-
+I also believe that AI and by extension software engineering, can only be useful when they solve the problems we face (for each country), truly meet people's needs, and are not just misunderstood tools relayed by just anyone.
+  
 My main goal is to contribute to the sustainable transformation of the AI ecosystem in Chad, through the [Chad AI Network community](https://chadainetwork.org/) that I founded. It brings together enthusiasts, students, academics, engineering researchers and professionals, driven by the desire to collectively advance this strategic sector in our country.
 
 Solving local problems using AI and data science is my ongoing obsession.
